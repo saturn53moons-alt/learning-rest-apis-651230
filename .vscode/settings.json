@@ -26,6 +26,6 @@
     "editor.defaultFormatter": "ms-python.black-formatter"
   },
   "rest-client.environmentVariables": {
-    "local": {}
+    "local": {"baseURL":"https: //shiny-space-palm-tree-jr674p6q6pfq447-8000.app.github.dev"}
   }
 }
